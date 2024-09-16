@@ -2,9 +2,11 @@
 
 
 ## Dashboard Preview
-
+### Dashboard 1-page
 ![Dashboard 1-page](1.png)
+### Dashboard 2-page
 ![Dashboard 2-page](2.png)
+### Dashboard 3-page
 ![Dashboard 3-page](3.png)
 
 
